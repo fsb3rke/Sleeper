@@ -15,8 +15,8 @@ PREFIX: `-`\
 `-h`\
 `-m`
 ### Log
-`t`\
-`f`
+`-t`\
+`-f`
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

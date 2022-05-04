@@ -10,13 +10,13 @@ You have to add 3 parameters for sleeper run.
 # Argvs
 PREFIX: `-`
 ### Command
-`-s`\
-`-ms`\
-`-h`\
-`-m`
+SECOND: `-s`\
+MILLISECOND`-ms`\
+HOUR: `-h`\
+MINUTE: `-m`
 ### Log
-`-t`\
-`-f`
+LOG TRUE: `-t`\
+LOG FALSE: `-f`
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

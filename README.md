@@ -8,7 +8,7 @@ You have to add 3 parameters for sleeper run.
 `sleeper -m 15 -t`
 
 # Argvs
-PREFIX: `-`\
+PREFIX: `-`
 ### Command
 `-s`\
 `-ms`\

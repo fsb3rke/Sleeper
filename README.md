@@ -8,15 +8,15 @@ You have to add 3 parameters for sleeper run.
 `sleeper -m 15 -t`
 
 # Argvs
-PREFIX: `-`
+PREFIX:       `-`
 ### Command
-SECOND: `-s`\
-MILLISECOND`-ms`\
-HOUR: `-h`\
-MINUTE: `-m`
+SECOND:       `-s`\
+MILLISECOND:  `-ms`\
+HOUR:         `-h`\
+MINUTE:       `-m`
 ### Log
-LOG TRUE: `-t`\
-LOG FALSE: `-f`
+LOG TRUE:     `-t`\
+LOG FALSE:    `-f`
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

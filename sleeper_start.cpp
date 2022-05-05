@@ -1,4 +1,5 @@
 #include <iostream>
+#include <conio.h>
 
 #define print(x) std::cout<<x
 #define endline std::cout<<std::endl
@@ -19,5 +20,6 @@ int main(int argc, char const *argv[])
     std::string systemCommand;
     systemCommand = "sleeper "+command+" "+time+" "+log;
     system(systemCommand.c_str());
+    getch();
     return 0;
 }

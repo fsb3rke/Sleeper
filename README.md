@@ -18,5 +18,9 @@ MINUTE:       `-m`
 LOG TRUE:     `-t`\
 LOG FALSE:    `-f`
 
+# NEWS
+Quick starter for sleeper.\
+You can use `sleeper_start.cpp`.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

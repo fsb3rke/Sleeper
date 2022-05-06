@@ -20,7 +20,7 @@ LOG FALSE:    `-f`
 
 # NEWS
 Quick starter for sleeper.\
-You can use `sleeper_start.cpp`.
+You can use `sleeper_start.cpp` or `sleeper_start.bat`.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
